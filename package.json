@@ -25,7 +25,6 @@
   "author": "Lloyd Watkin <lloyd@evilprofessor.co.uk>",
   "license": "MIT",
   "dependencies": {
-    "node-stringprep": "^0.7.0",
     "reconnect-core": "https://github.com/dodo/reconnect-core/tarball/merged",
     "tls-connect": "^0.2.2",
     "ltx": "^1.0.0",
