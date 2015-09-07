@@ -27,7 +27,7 @@
   "dependencies": {
     "reconnect-core": "https://github.com/dodo/reconnect-core/tarball/merged",
     "tls-connect": "^0.2.2",
-    "ltx": "^1.0.0",
+    "ltx": "git://github.com/fritx/ltx#no-expat",
     "debug": "^2.1.1"
   },
   "devDependencies": {
